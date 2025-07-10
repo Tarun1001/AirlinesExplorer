@@ -1,0 +1,22 @@
+{
+  "airlines": [
+    {
+      "id": "1",
+      "name": "EasyJet",
+      "country": "United Kingdom",
+      "headquarters": "London Luton Airport",
+      "fleet_size": 342,
+      "website": "https://www.easyjet.com",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/EasyJet_logo.svg/2560px-EasyJet_logo.svg.png"
+    },
+    {
+      "id": "2",
+      "name": "Jet2",
+      "country": "United Kingdom",
+      "headquarters": "Leeds Bradford Airport",
+      "fleet_size": 119,
+      "website": "https://www.jet2.com",
+      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jet2.com_logo.svg/2560px-Jet2.com_logo.svg.png"
+    }
+  ]
+}
